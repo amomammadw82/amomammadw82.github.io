@@ -1,1 +1,0 @@
-# amomammadw82.github.io
