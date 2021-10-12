@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/academy/VideoCourseStudent", {data:[{},{}],fetch:{},mutations:[]});
