@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/business/add/online-course", {data:[{},{},{}],fetch:{},mutations:[]});
