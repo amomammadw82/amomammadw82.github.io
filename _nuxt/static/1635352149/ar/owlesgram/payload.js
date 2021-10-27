@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ar/owlesgram", {data:[{}],fetch:{},mutations:[]});
