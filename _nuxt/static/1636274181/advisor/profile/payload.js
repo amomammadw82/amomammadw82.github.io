@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/advisor/profile", {data:[{},{}],fetch:{},mutations:[]});

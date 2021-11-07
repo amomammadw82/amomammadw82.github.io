@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/calls/VideoCall", {data:[{}],fetch:{},mutations:[]});
