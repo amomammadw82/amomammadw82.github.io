@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/business/academy", {data:[{},{}],fetch:{},mutations:[]});

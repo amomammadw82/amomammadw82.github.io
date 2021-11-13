@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/calls", {data:[{},{}],fetch:{},mutations:[]});

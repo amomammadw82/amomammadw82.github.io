@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/ar/advisor/calendar", {data:[{},{},{}],fetch:{},mutations:[]});

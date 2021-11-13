@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/business/create/upload-info", {data:[{}],fetch:{},mutations:[]});

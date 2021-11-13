@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/ar/LoginRegister", {data:[{},{}],fetch:{},mutations:[]});

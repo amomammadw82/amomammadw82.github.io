@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/business/city", {data:[{},{}],fetch:{},mutations:[]});

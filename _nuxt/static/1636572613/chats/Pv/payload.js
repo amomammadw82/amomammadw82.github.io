@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/chats/Pv", {data:[{},{}],fetch:{},mutations:[]});
