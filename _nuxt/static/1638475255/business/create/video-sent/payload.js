@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/business/create/video-sent", {data:[{}],fetch:{},mutations:[]});

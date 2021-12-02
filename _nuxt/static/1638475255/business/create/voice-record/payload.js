@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/business/create/voice-record", {data:[{}],fetch:{},mutations:[]});
